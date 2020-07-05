@@ -1,0 +1,15 @@
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\Content\css\custom.css
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\plugin.json
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\Scripts\offer.js
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\Views\Configure.cshtml
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\Views\PublicInfo.cshtml
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\Views\_ViewImports.cshtml
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\Nop.Plugin.Widgets.MyCustomPlugin.deps.json
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\Nop.Plugin.Widgets.MyCustomPlugin.dll
+D:\Development\Team Lead Project\nopkalles\src\Presentation\Nop.Web\Plugins\Widgets.MyCustomPlugin\Nop.Plugin.Widgets.MyCustomPlugin.pdb
+D:\Development\Team Lead Project\nopkalles\src\Plugins\Nop.Plugin.Widgets.MyCustomPlugin\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.MyCustomPlugin.AssemblyInfoInputs.cache
+D:\Development\Team Lead Project\nopkalles\src\Plugins\Nop.Plugin.Widgets.MyCustomPlugin\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.MyCustomPlugin.AssemblyInfo.cs
+D:\Development\Team Lead Project\nopkalles\src\Plugins\Nop.Plugin.Widgets.MyCustomPlugin\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.MyCustomPlugin.csproj.CoreCompileInputs.cache
+D:\Development\Team Lead Project\nopkalles\src\Plugins\Nop.Plugin.Widgets.MyCustomPlugin\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.MyCustomPlugin.csproj.CopyComplete
+D:\Development\Team Lead Project\nopkalles\src\Plugins\Nop.Plugin.Widgets.MyCustomPlugin\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.MyCustomPlugin.dll
+D:\Development\Team Lead Project\nopkalles\src\Plugins\Nop.Plugin.Widgets.MyCustomPlugin\obj\Debug\netcoreapp2.2\Nop.Plugin.Widgets.MyCustomPlugin.pdb
